@@ -1,0 +1,27 @@
+{
+  "name": "fitsync",
+  "version": "0.0.1",
+  "description": "Sync your fitness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondejong/fitsync.git"
+  },
+  "keywords": [
+    "iFit",
+    "Sync",
+    "TCX"
+  ],
+  "author": "Jon DeJong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jondejong/fitsync/issues"
+  },
+  "homepage": "https://github.com/jondejong/fitsync#readme",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
